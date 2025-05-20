@@ -9,7 +9,7 @@ const App = () => {
       {/* Header Section - now full width */}
       <header className="header">
         <h1>Phurinut Rungrojkitiyos</h1>
-        <h2>AI/ML Engineer & Full Stack Developer</h2>
+        <h2>AI / ML Engineer & Full Stack Developer</h2>
         <div className="contact-bar">
           <a href="mailto:geo.phurinut@hotmail.com">
             <FiMail />
