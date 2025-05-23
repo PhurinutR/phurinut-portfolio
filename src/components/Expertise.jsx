@@ -10,7 +10,7 @@ const labelsFirst = [
   "OpenCV",
   "PyTorch",
   "LangChain",
-  "Transformers",
+  "Agentic AI",
   "GANs",
   "Computer Vision",
   "NLP",
