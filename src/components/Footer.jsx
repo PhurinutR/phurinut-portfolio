@@ -19,13 +19,13 @@ function Footer() {
         </a>
       </div>
       <p>
-        This portfolio created by{" "}
+        Portfolio created by{" "}
         <a
           href="https://github.com/PhurinutR/phurinut-portfolio"
           target="_blank"
           rel="noreferrer"
         >
-          Phurinut Rungrojkitiyos
+          Phurinut R.
         </a>{" "}
         powered by 🍕
       </p>
