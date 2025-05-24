@@ -138,6 +138,11 @@
       display: block;
       padding-left: 0px;
       padding-right: 0px;
+      background-image: url("../images/bg-dark.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
     }
 
     .about-section .content {
