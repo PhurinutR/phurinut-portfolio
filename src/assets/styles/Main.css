@@ -15,7 +15,7 @@
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  z-index: 1;
+  z-index: 3;
 }
 
 .about-section .content {
